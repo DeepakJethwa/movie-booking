@@ -3,7 +3,7 @@ Inside the nav you will have a div with classname logo and a list
 for displaying the respective links as in the mock UI. 
 Use flexbox in nav to display the logo and list of links on the opposite side of the screen
 and also use flexbox in the list inside the nav also, to evenly space the links.
-
+deepak
 Give nav a padding of <code>12px 16px</code>.
 All the text on nav should have white for font color, so apply the property on nav itself.
 
